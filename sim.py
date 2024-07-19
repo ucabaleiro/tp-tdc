@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('ambient_temperature.csv')
 
-temperatura_interna_inicial = 20.0
+temperatura_interna_inicial = 27.0
 limite_superior = 22.0
 limite_inferior = 18.0
 z1 = 0.001
