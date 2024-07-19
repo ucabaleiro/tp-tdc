@@ -1,0 +1,1 @@
+Codigo correspondiente a la simulacion de funcionamiento del sitema de control de un fermentador para el Trabajo Practico de Teoria de Control de los alumnos Losada y Cabaleiro. K4011 1C2024 UTN FRBA.
